@@ -12,7 +12,7 @@
 
 The **Patient Digital Twin** is a Minimum Viable Product (MVP) designed to forecast 30-day readmission risk for diabetic patients and simulate their future health trajectories under various clinical interventions. 
 
-Built using the **UCI Diabetes 130-US hospitals dataset** (101,766 clinical encounters, 1999–2008), this tool empowers clinical decision-making by combining **calibrated machine learning risk models** (Random Forest/XGBoost), **Monte Carlo simulations**, and **SHAP-based explainability** into a seamless, interactive dashboard.
+Built using the **[UCI Diabetes 130-US hospitals dataset](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)** (101,766 clinical encounters, 1999–2008), this tool empowers clinical decision-making by combining **calibrated machine learning risk models** (Random Forest/XGBoost), **Monte Carlo simulations**, and **SHAP-based explainability** into a seamless, interactive dashboard.
 
 ---
 
