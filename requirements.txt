@@ -1,0 +1,17 @@
+# ── Core ML stack ──────────────────────────────────────────────────────────────
+pandas==2.0.0
+numpy==1.26.4
+scikit-learn==1.6.1
+xgboost==2.1.4
+joblib==1.5.3
+
+# ── Explainability ─────────────────────────────────────────────────────────────
+shap==0.49.1
+
+# ── Dashboard ─────────────────────────────────────────────────────────────────
+streamlit==1.12.0
+altair==4.2.2          # streamlit 1.12 requires altair 4.x
+plotly==6.0.0
+
+# ── Visualisation (train-time artifact saving) ─────────────────────────────────
+matplotlib==3.9.2
